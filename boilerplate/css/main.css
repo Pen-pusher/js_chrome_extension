@@ -1,2 +1,20 @@
 /* Importing Normalize css */
 @import url("normalize.css");
+
+body {
+    margin: 0 auto;
+    /* width: 1200px; */
+    background: tan;
+    font-family: 'Mansalva';
+
+}
+.head{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    font-size: 90px;
+    height: 20px;
+    margin-top: 20%;
+    color: crimson;
+    
+}
